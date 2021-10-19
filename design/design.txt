@@ -1,0 +1,3 @@
+design
+
+the intent here is to have a script or few scripts that i can use to keep track off tasks on the fly. i want to be able to add items and generate them into a list so i can see all tasks at hand. remove tasks when theyre completed, as well as mark completed tasks as completed with strike through notation.
