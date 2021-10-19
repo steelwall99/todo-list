@@ -1,0 +1,10 @@
+Implementation plan for a to do list BASH application.
+
+I intend to build a script that allows me to compile a list that can be added to,
+edited, marked individualy as complete, and provide a list of all tasks still left to do.
+
+a design artifact would be the applications use case, being that in the process of creating thius application, i will learn how to create a script, provide utility to me in the form oof a functioning to do list, and practice version control via git commits and pushes.
+
+I will own the code given that I created it from scratch.
+
+changes will be applied via git commits and pushes to this projects git repository.
